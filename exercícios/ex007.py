@@ -1,4 +1,4 @@
 n = int(input('Por favor, digite um número: '))
-na = n - 1
-ns = n + 1
-print('O antecessor de {} é {} e o sucessor é {}'.format(n, na, ns))
+#a = n - 1
+#s = n + 1
+print('Analisando o valor {}, seu antecessor é {} e seu sucessor é {}'.format(n, (n-1), (n+1)))
